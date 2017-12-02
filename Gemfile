@@ -12,7 +12,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass'
 gem "gritter", "1.2.0"
-
+gem "administrate"
+gem "bourbon"
 
 group :development, :test do
   gem 'byebug'
