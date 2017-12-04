@@ -15,6 +15,7 @@ gem "gritter", "1.2.0"
 gem "administrate"
 gem "bourbon"
 gem "pundit"
+gem 'puma', '~> 3.11'
 
 group :development, :test do
   gem 'byebug'
