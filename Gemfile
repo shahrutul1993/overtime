@@ -14,6 +14,7 @@ gem 'bootstrap-sass'
 gem "gritter", "1.2.0"
 gem "administrate"
 gem "bourbon"
+gem 'serviceworker-rails'
 
 group :development, :test do
   gem 'byebug'
