@@ -16,7 +16,8 @@ gem "administrate"
 gem "bourbon"
 gem "pundit"
 gem 'puma', '~> 3.11'
-
+gem 'twilio-ruby', '~> 4.11', '>= 4.11.1'
+gem 'dotenv', '~> 2.2', '>= 2.2.1'
 group :development, :test do
   gem 'byebug'
 end
