@@ -2,7 +2,8 @@
 						password: "asdfasdf", 
 						password_confirmation: "asdfasdf",
 						first_name: "rutul", 
-						last_name: "shah")
+						last_name: "shah"
+						phone: "7049181544")
 puts "1 user created"
 
 AdminUser.create!(email: "admin@test.com", 
