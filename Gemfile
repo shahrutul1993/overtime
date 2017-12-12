@@ -18,6 +18,8 @@ gem "pundit"
 gem 'puma', '~> 3.11'
 gem 'twilio-ruby', '~> 4.11', '>= 4.11.1'
 gem 'dotenv', '~> 2.2', '>= 2.2.1'
+gem 'kaminari'
+
 group :development, :test do
   gem 'byebug'
 end
